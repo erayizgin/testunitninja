@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 60,
+    "Username": "aaadnan",
+    "Name": "Abdullah Al Adnan",
+    "Email": "abdullah.adnan@datasoft-bd.com",
+    "AvatarUrl": "http://www.gravatar.com/avatar/399ae124502225e27e1ae0b285ba0a6c?s=80&d=identicon",
+    "PrivateToken": "-HJ6vMw4WGdVfHyZ5GbX",
+    "Host": "http://192.168.1.15",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 1
+  }
+}
