@@ -52,8 +52,8 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BookingHelperTests.cs" />
     <Compile Include="CustomerControllerTests.cs" />
-    <Compile Include="CustomerControllerTestsInit.cs" />
     <Compile Include="ErrorLoggerTests.cs" />
     <Compile Include="HtmlFormatterTests.cs" />
     <Compile Include="MathTests.cs" />
